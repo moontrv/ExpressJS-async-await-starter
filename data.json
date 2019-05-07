@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "username": "Fake123",
+      "bio": "Pro gamer"
+    },
+    {
+      "id": 2,
+      "name": "Jake",
+      "username": "silverbullet",
+      "bio": "Typical nerd guy"
+    },
+    {
+      "id": 3,
+      "name": "Hamburger",
+      "username": "bunny",
+      "bio": "Hamburger lover"
+    },
+    {
+      "id": 4,
+      "name": "Cheese",
+      "username": "donut",
+      "bio": "Another burger lover"
+    }
+  ]
+}
